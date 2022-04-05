@@ -1,0 +1,1 @@
+Appsilon uses the github methodology for version control, this method is  based in branches for each feature.
